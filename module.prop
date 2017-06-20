@@ -1,0 +1,7 @@
+id=adbd_Insecure
+name=安装 adbd Insecure
+version=v1
+versionCode=1
+author=Ezalor
+description=将 adbd Insecure 置入到 `/system/priv-app`
+template=3
