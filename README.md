@@ -2,6 +2,9 @@
 将 adbd Insecure 置入到 `/system/priv-app`
 
 ## 更新日志
+v1.1
+
+    - 更换 APK 版本
 v1
 
     - 第一版（adbd Insecure v2.0）
